@@ -519,7 +519,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a.active, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a.active {
-  color: #D63447;
+  color: #72c893;
 }
 
 .unslate_co--site-nav.scrolled .site-nav-ul > li > a.active:before, .unslate_co--site-nav.scrolled .site-nav-ul-none-onepage > li > a.active:before {
@@ -627,7 +627,7 @@ a, a:hover {
 }
 
 .unslate_co--site-mobile-menu ul a:hover, .unslate_co--site-mobile-menu ul li a:hover {
-  color: #D63447;
+  color: #72c893;
 }
 
 .unslate_co--site-mobile-menu ul > li > ul > li > a {
@@ -1862,7 +1862,7 @@ span.error {
 }
 
 #form-message-warning {
-  color: #f64b3c;
+  color: #8cba51;
 }
 
 #form-message-success {
